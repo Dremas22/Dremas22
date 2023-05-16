@@ -14,10 +14,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://bit.ly/3vkuj5a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://bit.ly/3vkuj5a" height="30" width="40" /></a>
-<a href="https://fb.com/https://bit.ly/3m9ityx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://bit.ly/3m9ityx" height="30" width="40" /></a>
-<a href="https://dribbble.com/dremas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="dremas" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@tshepomasilo4188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@tshepomasilo4188" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tshepo-masilo-159387172" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://bit.ly/3vkuj5a" height="30" width="40" /></a>
+
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
