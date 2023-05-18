@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack Developer in South Africa</h3>
 <img align="right" alt="coding" width="400" src="https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif">
 
-- 🔭 I currently designed a Book interactive website [Book Connect](https://github.com/Dremas22/bcl2023_TSHMAS873_group_chanique_iwa19.git)
+- 🔭 I currently designed a Book interactive website [Book Connect App](https://github.com/Dremas22/bcl2023_TSHMAS873_group_chanique_iwa19.git)
 
 - 🌱 I’m currently learning **Dynamic Web Apps**
 
