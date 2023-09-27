@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif">
 
 - 🔭 I currently designed a Book interactive website [Book Connect](https://github.com/Dremas22/bcl2023_TSHMAS873_group_chanique_iwa19.git)
--  🔭 Capstone project [Podcast App](https://github.com/Dremas22/BCL2023_TSHMAS873_Group_Justin_TshepoMasilo_DWA18})
+-  🔭 Capstone project [Podcast app](https://github.com/Dremas22/BCL2023_TSHMAS873_Group_Justin_TshepoMasilo_DWA18})
 
 - 🌱 I’m currently learning **Dynamic Web Apps**
 
