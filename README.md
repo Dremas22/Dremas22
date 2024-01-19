@@ -4,7 +4,7 @@
 
 - I am currently busy with [Recipe App](https://ase-2023-group-d.vercel.app/)
 - 🔭 Capstone project 2 [Book Connect](https://tshepo-bookconnect-app.netlify.app/)
--  🔭 Capstone project 3 [Podcast app](https://github.com/Dremas22/BCL2023_TSHMAS873_Group_Justin_TshepoMasilo_DWA18})
+-  🔭 Capstone project 3 [Podcast app](https://tshepo-podcast.netlify.app/})
 
 - 🌱 I’m currently learning **Dynamic Web Apps**
 
