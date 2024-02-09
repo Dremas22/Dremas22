@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack Developer in South Africa</h3>
 <img align="right" alt="coding" width="400" src="https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif">
 
-- I am currently busy with [Recipe App](https://ase-2023-group-d.vercel.app/)
+- 🔭 Capstone project 1 [Recipe App](https://ase-2023-group-d.vercel.app/)
 - 🔭 Capstone project 2 [Book Connect](https://tshepo-bookconnect-app.netlify.app/)
 -  🔭 Capstone project 3 [Podcast app](https://tshepo-podcast.netlify.app/})
 
