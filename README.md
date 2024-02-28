@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tshepo Masilo</h1>
-<h3 align="center">A passionate Front End Developer in South Africa</h3>
+<h3 align="center">A passionate Software Developer in South Africa</h3>
 <img align="right" alt="coding" width="400" src="https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif">
 
 - 🔭 Capstone project 1 [Recipe App](https://ase-2023-group-d.vercel.app/)
