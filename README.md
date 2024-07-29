@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif">
 
 -  🔭 [Taxi App(In Development progress)](https://supa-sqtl.vercel.app/)
--  🔭 [Sepotokele App](https://sepotokelo.vercel.app/)
+-  🔭 [Sepotokele Funeral Parlor App](https://sepotokelo.vercel.app/)
 -  🔭 [Sepotokele Customers App](https://spkcustomers.vercel.app/)
 - 🔭 [Aerobuddies App](https://aerobuddies.org)
 - 🔭 [My company's website](https://dremas-solutions.vercel.app/)
