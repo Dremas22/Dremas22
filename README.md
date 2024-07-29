@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Developer in South Africa</h3>
 <img align="right" alt="coding" width="400" src="https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif">
 
--  🔭 [Taxi App](https://supa-sqtl.vercel.app/)
+-  🔭 [Taxi App(In Development progress)](https://supa-sqtl.vercel.app/)
 -  🔭 [Sepotokele App](https://sepotokelo.vercel.app/)
 -  🔭 [Sepotokele Customers App](https://spkcustomers.vercel.app/)
 - 🔭 [Aerobuddies App](https://aerobuddies.org)
