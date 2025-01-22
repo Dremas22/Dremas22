@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dremas22/Dremas22](https://github.com/Dremas22/Dremas22)
 
-- 💬 Ask me about **Js, React, NextJs, HTML and CSS**
+- 💬 Ask me about **Js, React, NextJs, Solidity, NodeJs, Databases(MongoDB, Supabase) HTML and CSS**
 
 - 📫 How to reach me **atangmasilo22@gmail.comn**
 
