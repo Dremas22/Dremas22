@@ -11,7 +11,7 @@
 - 🔭 Capstone project 2 [Book Connect](https://tshepo-bookconnect-app.netlify.app/)
 -  🔭 Capstone project 3 [Podcast app](https://tshepo-podcast.netlify.app/})
 
-- 🌱 I’m currently learning **Dynamic Web Apps**
+- 🌱 I’m currently learning **Blockchain tech stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dremas22/Dremas22](https://github.com/Dremas22/Dremas22)
 
